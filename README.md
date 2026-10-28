@@ -1,21 +1,29 @@
-Hi👋, I'm Sagar Gabbur
+# Hi, I'm Sagar Gabbur
 
-# 💫 About Me:
-I’m currently looking for job<br>I have knowledge on Java(Basics & Advance), SQL
+Software Engineer at **Wipro** in Bengaluru, building Generative AI solutions for application modernization: LLM workflows that analyze legacy code, generate technical documentation, and recommend migration paths.
 
+## Tech stack
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sagargabbur?igsh=Z3U2dHl5c2xoM3My) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sagar-gabbur-792232213/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/SagarGabbu37399) 
+- **Generative AI:** LLMs, prompt engineering, RAG, LangChain, LangGraph, OpenAI / Azure OpenAI, structured outputs, embeddings, FAISS
+- **Languages:** Python, C# (.NET), SQL
+- **Frameworks and tools:** FastAPI, Pydantic, pytest
+- **Cloud:** Microsoft Azure (AZ-900 certified)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sagar89710&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sagar89710&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar89710&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## Featured projects
 
----
-[![](https://visitcount.itsvg.in/api?id=Sagar89710&icon=0&color=0)](https://visitcount.itsvg.in)
+### [Legacy Code Modernization Assistant](https://github.com/Sagar89710/legacy-modernization-assistant)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+LangGraph workflow that analyzes legacy C#/.NET code for security risks and migration blockers, maps file dependencies, and generates a phased migration plan as structured output. Includes a FastAPI endpoint and pytest tests.
 
+`Python` `LangGraph` `OpenAI` `Pydantic` `FastAPI`
+
+### [IT Support RAG Assistant](https://github.com/Sagar89710/it-support-rag-assistant)
+
+Answers IT support questions from a knowledge base using embeddings and FAISS retrieval, with source citations, answer validation, and a safe fallback for out-of-scope questions.
+
+`Python` `LangChain` `FAISS` `LangGraph`
+
+## Contact
+
+- LinkedIn: [sagar-gabbur-792232213](https://www.linkedin.com/in/sagar-gabbur-792232213/)
+- Email: sagargabbur2@gmail.com
